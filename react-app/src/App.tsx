@@ -121,6 +121,10 @@ function App() {
           );
         })}
       </div>
+
+      <div
+      className="bg-black text-center text-[#242424] mt-2"
+      > Nichada W. </div>
     </div>
   );
 }
